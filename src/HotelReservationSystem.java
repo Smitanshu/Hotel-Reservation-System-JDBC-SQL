@@ -261,6 +261,7 @@ public class HotelReservationSystem {
 
         }
         System.out.println();
+
         System.out.println("Thank You For Using Hotel Management System!!!");
     }
 }
